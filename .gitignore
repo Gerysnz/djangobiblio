@@ -1,5 +1,9 @@
-venv/
 *.pyc
-__pycache__/
-db.sqlite3
+/env/
+/venv/
+/static/*
+/media/*
 .env
+db.sqlite3
+.coverage
+__pycache__
